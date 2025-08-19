@@ -11,7 +11,7 @@ body{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     cursor: pointer;
-    font-size: 80px;
+    font-size: 40px;
     font-family: bday;
     -webkit-box-reflect: below -8px -webkit-gradient(linear, right top, right bottom, from(transparent), color-stop(85%, transparent), to(rgba(42, 99, 99, 1)));
 }
@@ -24,7 +24,7 @@ body{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     cursor: pointer;
-    font-size: 100px;
+    font-size: 90px;
     font-family: bday;
     -webkit-box-reflect: below -8px -webkit-gradient(linear, right top, right bottom, from(transparent), color-stop(85%, transparent), to(rgba(42, 99, 99, 1)));
 }
@@ -101,4 +101,5 @@ img:hover{
 @font-face {
     font-family: bday;
     src: url(bday.ttf);
+
 }
